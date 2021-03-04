@@ -15,3 +15,5 @@ _
 Weight = log(1+TF) * (N/df) to represent them in a space where their distance from each other should correspond to their similarity semantically.
 5. Modelling the data is the next step, After fitting the data, I realized that the evaluation of multi label classification was not as easy as regular binary classification, A confusion matrix was plotted
 6. The tesing data was used as out of sample data to predict values and they were saved in "result.csv"
+
+Get data set from https://www.kaggle.com/arashnic/urban-sound
