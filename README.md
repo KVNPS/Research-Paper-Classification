@@ -1,4 +1,4 @@
-# OPSMX
+# Research Paper classification
 
 
 _When going through the data, I noticed that the training dataset had its target variables/labels missing, Hence I created a new .csv file called '**result.csv'**.
