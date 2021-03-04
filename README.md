@@ -3,6 +3,8 @@
 
 _When going through the data, I noticed that the training dataset had its target variables/labels missing, Hence I created a new .csv file called '**result.csv'**.
 _
+
+
 **OBSERVATIONS**:
 
 1. The data was already divided into training and testing data, with training data having both the dependent and independent variables, whilst the training data set had no target variables
